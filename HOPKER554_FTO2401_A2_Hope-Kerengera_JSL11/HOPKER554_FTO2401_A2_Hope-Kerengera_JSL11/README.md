@@ -1,3 +1,6 @@
+Loom Link: https://www.loom.com/share/02cc50c6b63d477d987729d6707c43b5?sid=94baa3c3-36ae-4acd-b968-16f625cbd846
+
+
 ### [JSL11] Agile Board - Kanban Task Management App
 
 Welcome to the Agile Board project, the final project for the JSL course! In this portfolio piece project, you will be stepping into the shoes of a juniour developer tasked with bringing a Kanban Task Management App to life. You're not starting from scratch, though. We're providing you with a head start:
